@@ -1,0 +1,9 @@
+# Runtime results created in the Unity project root
+CodexBridge/
+
+# Unity generated directories
+Library/
+Temp/
+Logs/
+Obj/
+Build/

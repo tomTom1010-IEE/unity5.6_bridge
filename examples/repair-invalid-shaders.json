@@ -1,0 +1,5 @@
+{
+  "operation": "repairInvalidMaterialShaders",
+  "assetPath": "Assets/Mods/Example",
+  "shader": "xukmi/TomBSDF"
+}
